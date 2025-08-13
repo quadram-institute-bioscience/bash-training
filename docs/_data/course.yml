@@ -1,0 +1,3 @@
+title: Bash for Bioinformatics
+description: An <a href="https://www.nbi.ac.uk/">NBI</a> and <a href="https://www.quadram.ac.uk">Quadram Institute</a> course to get started using Linux for Bioinformatics
+modules: ["about", "first-steps", "filesystem", "commands", "formats", "igv", "remote-servers"]
